@@ -1,5 +1,7 @@
 # Air Quality Sensor
 
+## About
+
 The Final Project for the Bachelor's Degree in Engineering focuses on the development of an air pollution measurement module designed for drone integration.
 
 ## Preview
